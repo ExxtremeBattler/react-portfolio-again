@@ -1,14 +1,19 @@
 body{
-    background-image: url(../images/pexels-soumil-kumar-735911\ \(1\).jpg);
-    background-repeat: no-repeat;
+    background-image: url("../images/pexels-soumil-kumar-735911.jpg");
+    background-repeat:no-repeat;
+    background-size: 100% 100%;
     
 }
 
 .sidebar{
+    background-image: url(../images/sidebar-img.png);
     background-color: rgba(10, 6, 83, 0.3);
     border-color: black;
     border-radius: 25px;
     border-style:outset;
     width: max-content;
     height: 630px;
+
+    position: relative;
+    right: 8px;
 }
