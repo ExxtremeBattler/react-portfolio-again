@@ -11,7 +11,7 @@ body{
     border-color: black;
     border-radius: 25px;
     border-style:outset;
-    width: max-content;
+    width: 200px;
     height: 630px;
 
     position: relative;

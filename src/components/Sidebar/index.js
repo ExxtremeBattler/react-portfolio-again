@@ -3,9 +3,11 @@ import style from "../Sidebar/style.css"
 
 
 function Sidebar(){
-    return(<div className="sidebar">
-<p> This is the sidebar</p>
-    </div>)
+    return(
+    <div className="sidebar">
+        
+       
+                    </div>)
 }
 
 export default Sidebar
