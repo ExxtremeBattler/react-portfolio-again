@@ -1,0 +1,91 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  zoom: 95%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  line-height: 1.5;
+}
+
+
+
+
+.projectGridArea {
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 20px;
+  cursor: pointer;
+  display: grid;
+  align-content:center;
+}
+
+
+.projectGridArea a{
+  text-decoration: none;
+  color: black;
+}
+
+
+#project1 {
+  grid-area: project1;
+  position: relative;
+  bottom: 60px;
+}
+
+#project1 a img{
+  height: 240px;
+  width: 100%;
+  object-fit: cover;
+}
+
+#project2 {
+  grid-area: project2;
+}
+
+#project3 {
+  grid-area: project3;
+}
+
+#project4 {
+  grid-area: project4;
+}
+
+#project5 {
+  grid-area: project5;
+}
+
+#project2, #project3{
+  position: relative;
+  bottom: 100px;
+}
+
+#project4, #project5{
+  position: relative;
+  bottom: 100px;
+}
+
+.card{
+  background-color: wheat;
+}
+
+.card p {
+  font-size: larger;
+}
+
+.btn:hover{
+  box-shadow: 10px 10px black;
+}
+
+a:hover {
+  background-color: white;
+}
+
+
+
+
+

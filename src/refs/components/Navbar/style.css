@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  zoom: 95%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  line-height: 1.5;
+  background-image: url(../images/A-dark-mystery-hand-typing-on-a-laptop-computer-at-night.jpg);
+}
+
+.btn:hover{
+  box-shadow: 10px 10px black;
+}
+
+a:hover {
+  background-color: white;
+}
+
+.navbar a{
+  font-size: larger;
+}
+
+

@@ -1,0 +1,49 @@
+[
+    {
+        "title": "Prework Study Guide",
+        "deployLink" : "https://exxtremebattler.github.io/prework-study-guide/", 
+        "repoLink" : "https://github.com/ExxtremeBattler/prework-study-guide",
+        "image" : "https://media.licdn.com/dms/image/C4E2DAQHRW1274UM1Ig/profile-treasury-image-shrink_800_800/0/1674127604678?e=1679407200&v=beta&t=-UdEQ0nEiClVVIJyt5Azw8-IjfXhpPLmmyZlNFF0ufc"
+    },
+
+    {
+        "title": "Password Generator",
+        "deployLink" : "https://exxtremebattler.github.io/password-generator/", 
+        "repoLink" : "https://github.com/ExxtremeBattler/password-generator",
+        "image" : "https://media.licdn.com/dms/image/C4E2DAQFBOdpRT-DipQ/profile-treasury-image-shrink_800_800/0/1674127750534?e=1679407200&v=beta&t=h5cjq4xwHEXxjT8kg6SiiWUB-Gn8TOfXL3UVZTJ3KrA"
+    },
+
+    {
+        "title": "Marvel Hero Search",
+        "deployLink" : "https://exxtremebattler.github.io/fantastic-four-marvel-search/", 
+        "repoLink" : "https://github.com/ExxtremeBattler/fantastic-four-marvel-search",
+        "image" : "https://media.licdn.com/dms/image/C4E2DAQFXGsa8Gb40mQ/profile-treasury-image-shrink_800_800/0/1678108818761?e=1679407200&v=beta&t=AxA0Q0blIQJodBSa8k1GquPPPYXtMTXSlo11lAjIqhM"
+    },
+
+    {
+        "title": "Planner-App",
+        "deployLink" : "https://exxtremebattler.github.io/planner-app/", 
+        "repoLink" : "https://github.com/ExxtremeBattler/planner-app",
+        "image" : "https://media.licdn.com/dms/image/C4E2DAQGF5A_s3jylWg/profile-treasury-image-shrink_1920_1920/0/1678108066121?e=1679407200&v=beta&t=X3IkHXe8wiJamw6hvdtN5Z4nwXXPH3Z6gza1nYGO0AU"
+
+    },
+
+    {
+        "title": "Team Profile Generator",
+        "deployLink" : "https://github.com/ExxtremeBattler/team-profile-generator", 
+        "repoLink" : "https://github.com/ExxtremeBattler/team-profile-generator",
+        "image" : "https://media.licdn.com/dms/image/C4E2DAQHpGbUV7qx0hg/profile-treasury-image-shrink_800_800/0/1678108302303?e=1679562000&v=beta&t=ifTq9FGe18Ju05EQWYLgdUNPG7swhPgYfjHtEM9vINY"
+
+    },
+    {
+        "title": "Bootstrap Portfolio",
+        "deployLink" : "https://exxtremebattler.github.io/Bootstrap-Portfolio/", 
+        "repoLink" : "https://github.com/ExxtremeBattler/Bootstrap-Portfolio",
+        "image" : "https://media.licdn.com/dms/image/C4E2DAQEg5FPE-QSL3w/profile-treasury-image-shrink_800_800/0/1674127689523?e=1679666400&v=beta&t=19o6UaOrHVonadL5sK-V5TqnsJghOlOPOobDr2wiL3s"
+
+    }
+
+
+
+    
+]
